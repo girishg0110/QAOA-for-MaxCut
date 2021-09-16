@@ -1,4 +1,4 @@
-# QAOA for the Max-Cut Problem
+# QAOA for the Max-Cut Problem ❄️ 
 
 ## Abstract
 Quantum approximate optimization algorithms (QAOA) are a class of quantum algorithms applicable to combinatorial optimization problems. In this project, I
